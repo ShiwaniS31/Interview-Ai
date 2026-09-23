@@ -1,0 +1,8 @@
+shivanisingh31704_db_user
+GXZNR7coVYU18N5Q
+
+mongodb+srv://shivanisingh31704_db_user:GXZNR7coVYU18N5Q@interview-ai-cluster.gubhphx.mongodb.net/interview-master
+
+dH2gOZ5r2C5mXaTj
+
+mongodb+srv://shiwani:dH2gOZ5r2C5mXaTj@interview-ai-cluster.gubhphx.mongodb.net/interview-master
